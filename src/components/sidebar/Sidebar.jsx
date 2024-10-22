@@ -10,7 +10,7 @@ import {
     WorkOutline,
     Event,
     School,
-} from "@material-ui/icons";
+} from "@mui/icons-material";
 import {CloseFriend, Users} from '../../components/indexComp';
 
 
