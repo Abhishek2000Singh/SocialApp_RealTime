@@ -7,6 +7,9 @@ import Post from "./post/Post";
 import CloseFriend from "./closeFriend/CloseFriend";
 import Online from "./online/Online";
 import { Users } from "../dummyData";
+import Message from "./message/Message";
+import Conversation from "./conversation/Conversation";
+import ChatOnline from "./chatOnline/ChatOnline";
 export {
     Rightbar,
     Sidebar,
@@ -16,5 +19,8 @@ export {
     Post,
     CloseFriend,
     Online,
-    Users
+    Users,
+    Message,
+    Conversation,
+    ChatOnline,
 };
